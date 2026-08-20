@@ -3,6 +3,7 @@
 Interactive onboarding flow prototypes for 1of10, built on Ollie's UI prototypes.
 
 - **[Thumbnail Gen: full new-user flow](https://1of10-interface.github.io/1of10-onboarding-preview/)** — $1 trial screen, welcome wizard, guided first generation, setup checklist, editor tour
+- **[Idea Gen: new-user flow](https://1of10-interface.github.io/1of10-onboarding-preview/1of10-idea-gen-onboarding_v1.html)** — channel, thumbnails toggle, generate, and the data behind each idea
 - **[Title Gen: first-run tour](https://1of10-interface.github.io/1of10-onboarding-preview/1of10-title-gen-tour_v1.html)** — what's-new card + 15-second tour (also reachable from "Generate a title" in the main flow)
 
 The HTML is AES-encrypted (StatiCrypt); ask Artur for the password.
